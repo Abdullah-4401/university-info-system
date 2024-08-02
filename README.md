@@ -1,4 +1,4 @@
-# university-info-system
+
 # University Data Manager
 
 This project is a Django REST framework application for managing university data and handling user authentication. It includes functionalities for fetching, storing, updating, and deleting university data from an external API, as well as user registration, login, logout, and password reset functionalities.
